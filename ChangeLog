@@ -1,5 +1,7 @@
 2024-11-30  MORIOKA Tomohiko  <tomo.git@chise.org>
 
+	* t616.csv: Delete garbage.
+
 	* README.md: New file.
 
 2015-12-23  MORIOKA Tomohiko  <tomo.git@chise.org>
